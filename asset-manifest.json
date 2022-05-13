@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-dashboard/static/css/main.e7720ab7.css",
+    "main.js": "/weather-dashboard/static/js/main.87df9b20.js",
+    "index.html": "/weather-dashboard/index.html",
+    "main.e7720ab7.css.map": "/weather-dashboard/static/css/main.e7720ab7.css.map",
+    "main.87df9b20.js.map": "/weather-dashboard/static/js/main.87df9b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.87df9b20.js"
+  ]
+}
